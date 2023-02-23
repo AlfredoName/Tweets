@@ -1,0 +1,11 @@
+Instalacion numpy 
+python.exe -m pip install pandas
+
+regex 
+python.exe -m pip install regex
+
+seaborn
+python.exe -m pip install seaborn
+
+tsne
+python.exe -m pip install tsne
